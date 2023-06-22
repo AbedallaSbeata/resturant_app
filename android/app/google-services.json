@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644417656166",    
+    "project_id": "resturant-app-beb46",    
+    "storage_bucket": "resturant-app-beb46.appspot.com"  
+  },  
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644417656166:android:d4232cc7e9036c87f624a7",        
+        "android_client_info": {
+          "package_name": "com.example.resturant_app"        
+        }
+      },      
+      "oauth_client": [
+        {
+          "client_id": "644417656166-iffap60i2sft5rtko4f395np4ta3ns3n.apps.googleusercontent.com",          
+          "client_type": 3        
+        }
+      ],      
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcUnsnyNnaCD0UjONmWLDhla305PPuDw"        
+        }
+      ],      
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644417656166-iffap60i2sft5rtko4f395np4ta3ns3n.apps.googleusercontent.com",              
+              "client_type": 3            
+            }
+          ]
+        }
+      }
+    }
+  ],  
+  "configuration_version": "1"
+}
